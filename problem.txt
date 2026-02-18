@@ -1,0 +1,89 @@
+🔰 10 Basic JavaScript Problem-Solving Tasks (Beginner Friendly)
+1️⃣ Print “Hello JavaScript”
+
+👉 Task:
+Write a function that prints "Hello JavaScript" in the console.
+
+Hint: console.log()
+
+2️⃣ Add Two Numbers
+
+👉 Task:
+Create a function that takes two numbers and returns their sum.
+
+Example:
+add(5, 10) → 15
+
+3️⃣ Check Even or Odd
+
+👉 Task:
+Write a function that checks whether a number is even or odd.
+
+Example:
+check(4) → "Even"
+check(7) → "Odd"
+
+Hint: % operator
+
+4️⃣ Find the Largest Number
+
+👉 Task:
+Given two numbers, find the larger one.
+
+Example:
+largest(10, 20) → 20
+
+5️⃣ Convert Celsius to Fahrenheit
+
+👉 Task:
+Convert temperature from Celsius to Fahrenheit.
+
+Formula:
+F = (C × 9/5) + 32
+
+6️⃣ Print Numbers from 1 to 10
+
+👉 Task:
+Use a loop to print numbers from 1 to 10.
+
+Hint: for loop
+
+7️⃣ Sum of an Array
+
+👉 Task:
+Given an array of numbers, calculate the total sum.
+
+Example:
+[1, 2, 3, 4] → 10
+
+8️⃣ Count Characters in a String
+
+👉 Task:
+Write a function that returns how many characters are in a string.
+
+Example:
+"JavaScript" → 10
+
+9️⃣ Reverse a String
+
+👉 Task:
+Reverse a string.
+
+Example:
+"hello" → "olleh"
+
+Hint: split(), reverse(), join()
+
+🔟 Check Positive, Negative, or Zero
+
+👉 Task:
+Check whether a number is:
+
+Positive
+
+Negative
+
+Zero
+
+Example:
+checkNumber(5) → "Positive"
