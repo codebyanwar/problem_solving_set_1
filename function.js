@@ -168,3 +168,51 @@ const programmingLanguge = 'javascript';
 
 
 // console.log(characters(programmingLanguge));
+
+
+
+// 9️⃣ Reverse a String
+
+// 👉 Task:
+// Reverse a string.
+
+// Example:
+// "hello" → "olleh"
+
+// Hint: split(), reverse(), join()
+
+const sentence = "I am ayman kajol anwar";
+
+
+const reverse = sentence.split('').reverse().join('');
+
+// console.log(reverse);
+
+
+// 🔟 Check Positive, Negative, or Zero
+
+// 👉 Task:
+// Check whether a number is:
+
+// Positive
+
+// Negative
+
+// Zero
+
+// Example:
+// checkNumber(5) → "Positive"
+
+
+function result (num){
+    if(num>0){
+        return (`The number of ${num} is a positive number`);
+    }
+    else if(num<0){
+        return (`The number of ${num} is a negative number`);
+    }else if(num===0){
+        return(`The number of ${num} is a zero`);
+    }
+}
+
+console.log(result(0));
